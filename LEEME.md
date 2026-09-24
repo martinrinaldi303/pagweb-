@@ -196,7 +196,6 @@ tocando: en la compu, en una columna a la derecha; en el celular, en una ventani
 
 En **Textos de la página** están todos los textos, agrupados por sección (portada, servicios, historia,
 ubicación, pie de página, etc.). Se tocan las flechitas para abrir cada grupo y se escribe encima.
-Tres campos hacen algo más que cambiar el texto:
 
 En **Teléfono y ubicación** están los datos de contacto, que cambian en toda la página a la vez:
 
@@ -205,8 +204,6 @@ En **Teléfono y ubicación** están los datos de contacto, que cambian en toda 
 | *Número de WhatsApp* | Los 14 botones de reservar y consultar. | Con el código del país: `+54 9 11 5975-8218`. |
 | *Usuario de Instagram* | Los enlaces al perfil de Instagram. | `@retrogreen_salonn`, o pegando el enlace del perfil. |
 | *Dirección* y *Ciudad* | Los enlaces a Google Maps. | Como se escribe normalmente. |
-
-
 
 Si un texto se deja vacío, la página usa el que ya tenía. El diseño, los colores y las secciones no se
 tocan desde el panel: para eso hay que pedirle un cambio a Martín.
